@@ -8,6 +8,7 @@ public class Practice1 {
         System.out.println(a - b);
         System.out.println(a * b);
         System.out.println(a / b);
-        //This is the changes from local
+        
+        //This is the changes from github
     }
 }
